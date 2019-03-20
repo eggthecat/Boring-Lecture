@@ -1,0 +1,28 @@
+h1 {
+  font-size: 60px;
+  color: red;
+}
+
+h2.intro {
+  font-size: 65px;
+  color: purple;
+}
+
+p.intro {
+  font-size: 70px;
+  color: blue;
+  opacity: .6;
+}
+
+img.intro {
+  float: right;
+}
+
+img.intro:hover {
+  opacity: .8;
+}
+
+body {
+  background-image: url("https://sc01.alicdn.com/kf/HTB1z0.KJVXXXXa1XFXXq6xXFXXX8/223740127/HTB1z0.KJVXXXXa1XFXXq6xXFXXX8.jpg");
+  background-color: #cccccc;
+}
